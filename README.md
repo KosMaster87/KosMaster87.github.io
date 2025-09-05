@@ -28,7 +28,7 @@ I'm a frontend developer focused on creating responsive, user-friendly single-pa
 - **Email:** Konstantin.Aksenov@dev2k.org
 - **Portfolio:** [portfolio.dev2k.org](https://portfolio.dev2k.org)
 - **Github:** [Github](https://github.com/KosMaster87/)
-- **LinkedIn:** [konstantin-aksenov](https://www.linkedin.com/in/konstantin-aksenov/)
+- **LinkedIn:** [konstantin-aksenov](https://www.linkedin.com/in/konstantin-aksenov-802b88190/)
 
 ## 📄 License
 
