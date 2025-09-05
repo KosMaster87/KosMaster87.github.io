@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This site showcases my work as a Front
 
 ## 🌐 Live Site
 
-Visit my portfolio at: [KosMaster87.github.io](https://kosmaster87.github.io)
+Visit my portfolio at: [KosMaster87.github.io](https://kosmaster87.github.io){:target="\_blank"}
 
 ## 👨‍💻 About Me
 
@@ -19,16 +19,16 @@ I'm a frontend developer focused on creating responsive, user-friendly single-pa
 
 ## 🚀 Featured Projects
 
-- **[El Pollo Loco](https://el-pollo-loco.dev2k.org/)** - Interactive JavaScript game
-- **[Join](https://join.dev2k.org/)** - Task management application
-- **[Super Rando](https://super-rando.dev2k.org/)** - Interactive web application
+- **[El Pollo Loco](https://el-pollo-loco.dev2k.org/){:target="\_blank"}** - Interactive JavaScript game
+- **[Join](https://join.dev2k.org/){:target="\_blank"}** - Task management application
+- **[Super Rando](https://super-rando.dev2k.org/){:target="\_blank"}** - Interactive web application
 
 ## 📫 Contact
 
 - **Email:** Konstantin.Aksenov@dev2k.org
-- **Portfolio:** [portfolio.dev2k.org](https://portfolio.dev2k.org)
-- **Github:** [Github](https://github.com/KosMaster87/)
-- **LinkedIn:** [konstantin-aksenov](https://www.linkedin.com/in/konstantin-aksenov-802b88190/)
+- **Portfolio:** [portfolio.dev2k.org](https://portfolio.dev2k.org){:target="\_blank"}
+- **Github:** [Github](https://github.com/KosMaster87/){:target="\_blank"}
+- **LinkedIn:** [konstantin-aksenov](https://www.linkedin.com/in/konstantin-aksenov-802b88190/){:target="\_blank"}
 
 ## 📄 License
 
