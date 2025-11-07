@@ -49,7 +49,7 @@ Interactive JavaScript browser game developed using object-oriented programming 
 ### 🎮 [Super~Rando](https://super-rando.dev2k.org/)
 Modern mobile web app built with Vanilla JavaScript, CSS, and PHP. Showcases professional frontend architecture without external frameworks.
 
-### ✅ [Let's Todo] (https://lets-todo.dev2k.org/)
+### ✅ [Let's Todo](https://lets-todo.dev2k.org/)
 Complete todo management solution with separate frontend and backend architecture. Vanilla JavaScript frontend communicates with Node.js Express API.
 
 ### 🌐 [Portfolio Website](https://portfolio.dev2k.org/)
