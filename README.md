@@ -49,10 +49,10 @@ Interactive JavaScript browser game developed using object-oriented programming 
 ### 🎮 [Super~Rando](https://super-rando.dev2k.org/)
 Modern mobile web app built with Vanilla JavaScript, CSS, and PHP. Showcases professional frontend architecture without external frameworks.
 
-### ✅ Let's Todo
+### ✅ [Let's Todo] (https://lets-todo.dev2k.org/)
 Complete todo management solution with separate frontend and backend architecture. Vanilla JavaScript frontend communicates with Node.js Express API.
 
-### 🌐 [Portfolio Website](https://portfolio.dev2k.org)
+### 🌐 [Portfolio Website](https://portfolio.dev2k.org/)
 Single Page Application showcasing all my projects with modern design and smooth interactions.
 
 ## 📚 Education
@@ -64,10 +64,11 @@ Completed intensive front-end program at Germany's leading TÜV-certified web de
 
 ## 💼 Professional Experience
 
-**Open-Source Developer** | Simple CRM Project  
+**Full-Stack Developer / Intensive Practical & Self-Study**  
 *12/2024 - Present | Remote*
-- Developing CRM application with Angular and Node.js/Nginx
-- Implementing user authentication using Express Authentication
+- Deepening full-stack development through self-initiated projects ("Let's Todo")
+- Expanding backend and DevOps knowledge (Node.js, Express, MySQL, Nginx, PM2)
+- Continuous knowledge acquisition in collaboration with AI tools and feedback from experienced developers
 
 **Career Transition & Self-Study**  
 *01/2023 - 12/2024 | Remote*
