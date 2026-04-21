@@ -1,4 +1,4 @@
-const CACHE_NAME = "ka-cv-v2";
+const CACHE_NAME = "ka-cv-v3";
 const ASSETS_TO_CACHE = [
   "./",
   "./index.html",
@@ -6,8 +6,9 @@ const ASSETS_TO_CACHE = [
   "./style.css",
   "./assets/styles/lexend.css",
   "./assets/web-app/site.webmanifest",
-  "./assets/web-app/favicon.png",
-  "./assets/web-app/icon-128.png",
+  "./assets/web-app/icon-32.png",
+  "./assets/web-app/icon-192.png",
+  "./assets/web-app/icon-512.png",
 ];
 
 self.addEventListener("install", (event) => {
