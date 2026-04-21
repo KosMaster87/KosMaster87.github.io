@@ -1,0 +1,20 @@
+{
+  "name": "Konstantin Aksenov CV",
+  "short_name": "KA CV",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fffdf8",
+  "theme_color": "#0f766e",
+  "icons": [
+    {
+      "src": "./favicon.png",
+      "sizes": "32x34",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon-128.png",
+      "sizes": "128x134",
+      "type": "image/png"
+    }
+  ]
+}

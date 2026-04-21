@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Offline – Konstantin Aksenov</title>
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x34"
+      href="assets/web-app/favicon.png"
+    />
+    <style>
+      :root {
+        --paper: #fffdf8;
+        --ink: #1f1f22;
+        --muted: #5f6368;
+        --accent: #0f766e;
+        --line: #d7d3c9;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        font-family: "Lexend", Arial, sans-serif;
+        background: linear-gradient(180deg, #f3efe4 0%, #ece5d7 100%);
+        min-height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 2rem 1rem;
+        color: var(--ink);
+      }
+
+      .card {
+        background: var(--paper);
+        border: 1px solid var(--line);
+        max-width: 480px;
+        width: 100%;
+        padding: 2.8rem 2.4rem;
+        text-align: center;
+      }
+
+      .icon {
+        font-size: 3rem;
+        margin-bottom: 1.2rem;
+      }
+
+      h1 {
+        margin: 0 0 0.8rem;
+        font-size: 1.5rem;
+        line-height: 1.2;
+      }
+
+      p {
+        margin: 0 0 2rem;
+        color: var(--muted);
+        line-height: 1.6;
+      }
+
+      a {
+        display: inline-block;
+        text-decoration: none;
+        border: 1px solid var(--accent);
+        color: var(--accent);
+        padding: 0.55rem 1.2rem;
+        font-size: 0.9rem;
+        font-weight: 500;
+        transition:
+          background 140ms ease,
+          color 140ms ease;
+      }
+
+      a:hover,
+      a:focus-visible {
+        background: var(--accent);
+        color: #fff;
+        outline: none;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="card">
+      <div class="icon" aria-hidden="true">📡</div>
+      <h1>You are offline</h1>
+      <p>No internet connection. Please check your network and try again.</p>
+      <a href="/">Back to CV</a>
+    </div>
+  </body>
+</html>
