@@ -65,7 +65,7 @@ Then open `http://localhost:8000`.
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+MIT — see [MIT License](https://opensource.org/licenses/MIT).
 
 ---
 
